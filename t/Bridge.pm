@@ -1,6 +1,6 @@
 use v6;
 
-unit module t::Bridge;
+unit module Bridge;
 
 our sub my_lower($context) {
     return $context.value.lc;
