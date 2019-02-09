@@ -1,8 +1,8 @@
 {
     "perl"        : "6.*",
     "name"        : "TestML",
-    "version"     : "*",
-    "author"      : "Ingy döt Net <ingy@cpan.org>",
+    "version"     : "0.1",
+    "authors"      : [ "Ingy döt Net <ingy@cpan.org>" ],
     "description" : "A Generic Software Testing Meta Language",
     "depends"     : [ ],
     "provides"    : {
